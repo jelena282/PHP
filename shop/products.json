@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "Sjaj", "price": 1120.99, "image": "puder.jpg"},
+    {"id": 2, "name": "Karmin ", "price": 200.99, "image": "labelo.jpg"},
+    {"id": 3, "name": "Puder ", "price": 1500.49, "image": "product.jpg"}
+]
